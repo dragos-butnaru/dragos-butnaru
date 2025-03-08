@@ -1,1 +1,1 @@
-![Banner GIF](media/storm.gif)
+![Banner GIF](media/banner.gif)
