@@ -1,1 +1,1 @@
-![Banner GIF](media/banner.gif)
+![Banner GIF](media/banner_c.gif)
